@@ -1,4 +1,4 @@
-package main
+package primtvs
 
 func ChanOwner() <-chan int {
 	resultStream := make(chan int, 5)
