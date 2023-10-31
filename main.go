@@ -13,4 +13,6 @@ func main() {
 	}
 
 	fmt.Println("Done receiving!")
+
+	primtvs.SimpleSelectStatement()
 }
